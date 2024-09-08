@@ -1,3 +1,4 @@
 hello,world
-知乎虚调子[](https://www.zhihu.com/people/la-la-la-4-25-46)的双元法.
-https://www.zhihu.com/search?type=content&q=%E5%8F%8C%E5%85%83%E6%B3%95
+知乎虚调子[a](https://www.zhihu.com/people/la-la-la-4-25-46)的双元法.
+入门文章:[b](https://zhuanlan.zhihu.com/p/443599480)
+
